@@ -1,0 +1,32 @@
+*, body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #D6E1F0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    background-color: #fff;
+    width: 325px;
+    height: 501px;
+    border-radius: 10px;
+    padding: 16px;
+}
+.QR img {
+    width: 290px;
+    height: auto;
+    border-radius: 10px;
+    
+}
+.texto {
+    text-align: center;
+    margin-top: 20px;
+}
+.texto p{
+    margin-top: 20px;
+}
